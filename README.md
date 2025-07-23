@@ -2,7 +2,7 @@
 blockchain project made by C++
 when i was a sophomore - 2025
 
-** Do not use this code for security. The code is not safe.
+⚠️ Do not use this code for security. The code is not safe.
 
 must know
 - C++ basic grammar: <iostream>, cout, cin, endl, int, string, char
